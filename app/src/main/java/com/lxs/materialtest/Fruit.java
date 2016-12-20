@@ -7,7 +7,6 @@ package com.lxs.materialtest;
 public class Fruit {
 
     private String name;
-
     private int imageId;
 
     public Fruit(String name, int imageId) {
